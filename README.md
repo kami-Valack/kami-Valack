@@ -102,7 +102,7 @@ _Projeto específico_
 
 ## 📫 Contato & Conecte-se
 
-- **Email:** [redwaneamin@gmail.com](mailto:redwaneamin@gmail.com)
+- **Email:** [reduaneamin@gmail.com](mailto:reduaneamin@gmail.com)
 - **LinkedIn:** [linkedin.com/in/redwane-jacline-590a052b4](https://www.linkedin.com/in/redwane-jacline-590a052b4/)
 - **Telefone:** +244 949 844 137
 
