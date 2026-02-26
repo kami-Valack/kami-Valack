@@ -108,16 +108,6 @@ _Projeto específico_
 
 ---
 
-## 🌟 Projetos Destacados
-
-### 🔐 [Security Assessment Toolkit](https://github.com/redwanex/security-toolkit)
-Coleção de scripts e ferramentas para testes de segurança automatizados
-
-### 🛒 [E-commerce API System](https://github.com/redwanex/ecommerce-api)
-Sistema de e-commerce completo com API RESTful e microserviços
-
-### ⚡ [DevSecOps Pipeline](https://github.com/redwanex/devsecops-pipeline)
-Pipeline CI/CD integrado com ferramentas de segurança SAST/DAST
 
 ---
 
